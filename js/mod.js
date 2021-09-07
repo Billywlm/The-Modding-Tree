@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The Prestige Chain Rewritten",
 	id: "mymod",
 	author: "nobody",
 	pointsName: "points",
